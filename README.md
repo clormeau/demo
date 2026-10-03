@@ -6,4 +6,8 @@
 
 Hello World
 
-Version : tag0.1
+Version : tag0.2
+
+## Guide MySQL
+
+Consultez le [guide MySQL](GUIDE_MYSQL.md) pour installer MySQL et apprendre les commandes essentielles.
